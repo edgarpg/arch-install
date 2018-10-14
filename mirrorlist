@@ -1,0 +1,5 @@
+## United States
+Server = http://mirrors.acm.wpi.edu/archlinux/$repo/os/$arch
+
+## Mexico
+Server = https://mex.mirror.pkgbuild.com/$repo/os/$arch
