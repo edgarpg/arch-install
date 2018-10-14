@@ -1,2 +1,2 @@
 # arch-mirrorlist
-Just best server for install Arch Linux on Mexico
+Just best servers for install Arch Linux on Mexico
